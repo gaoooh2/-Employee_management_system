@@ -1,0 +1,35 @@
+@charset "UTF-8";
+.titleh1{
+	text-align: center;
+}
+
+.errMsg{
+	text-align: center;
+	margin: auto;
+	color: red;
+}
+
+.border{
+
+	border: 1px solid #333333;
+	background-color: #FFBF11;
+	margin: 0px auto;
+ 	width: 300px;
+
+}
+
+.idPass{
+	text-align: center;
+	padding: 10px;
+	margin: 10px;
+}
+
+.button{
+	text-align: center;
+	margin: 20px;
+}
+
+button.loginButton{
+	font-size: 1em;
+	padding: 3px 20px;
+}

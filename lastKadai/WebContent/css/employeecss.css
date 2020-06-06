@@ -1,0 +1,57 @@
+@charset "UTF-8";
+.titleh1{
+	text-align: center;
+}
+
+
+.errFlagMsg{
+	text-align: left;
+	padding-left: 38%;
+	margin: auto;
+	color: red;
+}
+
+table{
+	border: 1px #808080 solid;
+	text-align: center;
+	margin: auto;
+}
+
+#css-1 col{
+	background-color: #ccccff;
+}
+
+td{
+	border: 1px #808080 solid;
+	text-align: left;
+
+}
+
+.contents{
+	text-align: center;
+	padding: 10px;
+	margin: 10px;
+}
+
+.mailAddress{
+	width: 200px;
+	margin-right: 10px;s
+}
+
+.nextButton{
+	margin-top: 20px;
+	float: left;
+	margin-left: 43%;
+	margin-right: 20px;
+}
+
+.backButton{
+	margin-top: 20px;
+	margin-left: 52%;
+	margin-left: 20px;
+}
+
+button.nButton,button.bButton{
+	font-size: 1em;
+	padding: 0px 30px;
+}

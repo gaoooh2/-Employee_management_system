@@ -1,0 +1,40 @@
+@charset "UTF-8";
+.employeeAll{
+	text-align: center;
+}
+
+.header{
+	text-align: right;
+	margin-right: 10%;
+}
+
+.newAddButton{
+	text-align: right;
+	margin-right: 10%;
+}
+
+button.newAdd{
+	font-size: 1em;
+	padding: 5px 20px;
+	margin-bottom: 10px;
+}
+
+
+table,td,th{
+	border: 1px #808080 solid;
+	text-align: center;
+	margin: auto;
+}
+
+
+.tableHeader{
+	background:#ccccff;
+
+}
+
+td.No{
+	width: 5px;
+}
+
+
+
